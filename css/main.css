@@ -1,0 +1,47 @@
+.outerDiv{
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+
+.headerContainer{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    border: 1px solid black;
+    height: 100px;
+}
+
+.mainContainer{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+.mainContainer div{
+    border: 1px solid black;
+    width: 60%;
+    height: 450px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.leftDiv{
+    background-color: blue;
+    width: 60%;
+    margin-right: 10px;
+    height: 450px;
+    margin-left: 0px;
+}
+
+.rightDiv{
+    background-color: red;
+}
+
+.footerContainer{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    border: 1px solid black;
+    height: 100px;
+}
