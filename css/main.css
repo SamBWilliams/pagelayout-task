@@ -10,6 +10,10 @@
     text-align: center;
     border: 1px solid black;
     height: 100px;
+    vertical-align: middle;
+    line-height: 100px;
+    font-size: 30px;
+    font-weight: bold;
 }
 
 .mainContainer{
@@ -24,14 +28,15 @@
     height: 450px;
     margin-top: 10px;
     margin-bottom: 10px;
+    vertical-align: middle;
+    line-height: 450px;
+    font-size: 30px;
+    font-weight: bold;
 }
 
 .leftDiv{
     background-color: blue;
-    width: 60%;
     margin-right: 10px;
-    height: 450px;
-    margin-left: 0px;
 }
 
 .rightDiv{
@@ -44,4 +49,8 @@
     text-align: center;
     border: 1px solid black;
     height: 100px;
+    vertical-align: middle;
+    line-height: 100px;
+    font-size: 30px;
+    font-weight: bold;
 }
